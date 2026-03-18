@@ -5,7 +5,7 @@ Downloads data shards and trains a BPE tokenizer.
 Usage:
     python prepare.py                  # full prep (download + tokenizer)
     python prepare.py --num-shards 8   # download only 8 shards (for testing)
-123121111
+1231211111
 Data and tokenizer are stored in ~/.cache/autoresearch/.
 """
 
